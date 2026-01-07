@@ -14,4 +14,4 @@ It classifies text into Positive, Negative, and Neutral sentiments.
 ~96%
 
 ## Live Demo
-(Streamlit link here)
+(https://sentiment-analysis-nlp-jiztptn4l5dzconkn4pszd.streamlit.app/)
