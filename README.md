@@ -1,2 +1,17 @@
-# sentiment-analysis-nlp
-A machine learning based sentiment analysis system using NLP to classify text into Positive, Negative, and Neutral sentiments.
+# Sentiment Analysis using NLP
+
+This project performs sentiment analysis using NLP techniques.
+It classifies text into Positive, Negative, and Neutral sentiments.
+
+## Tech Stack
+- Python
+- NLP
+- TF-IDF
+- Logistic Regression
+- Streamlit
+
+## Accuracy
+~96%
+
+## Live Demo
+(Streamlit link here)
